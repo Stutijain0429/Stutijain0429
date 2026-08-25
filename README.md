@@ -1,270 +1,125 @@
-<div align="center">
+## 🧠 Who I Am
 
-<h2>👋 Hi, I'm Stuti Jain</h2>
+| 🎯 **Title** | AI/ML & GenAI Developer |
+|---|---|
+| 📍 **Location** | Indore, Madhya Pradesh, India |
+| 🎓 **Education** | B.Tech, AI & ML @ Acropolis Institute of Technology & Research (2023–2027) |
+| 🚀 **Open To** | AI/ML Roles · GenAI Projects · Collaborations |
 
-<p><b>AI/ML Developer • Python Developer • Generative AI Enthusiast</b></p>
+### 🛠️ Skills
+
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript
+- **AI/ML & GenAI:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Prompt Engineering, Semantic Search, Embeddings, Vector Search
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Streamlit, NLTK, FAISS, Sentence Transformers
+- **Data Tools:** Pandas, NumPy, Matplotlib, Tableau, Excel, Data Analytics, Data Visualization, EDA
+- **Backend & APIs:** REST APIs, Backend Development, API Integration, Gemini API
+- **Databases:** MySQL, MongoDB
+- **Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- **Tools:** Git, GitHub, Docker, Postman, VS Code, Jupyter Notebook
+- **Practices:** Software Testing, Test Automation, Performance Optimization, Agile/Scrum, Problem Solving
+
+### Languages
 
 <p>
-  <i>Building intelligent applications with AI, ML, RAG & Agentic Systems</i>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
 </p>
 
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🙋‍♀️ WHO I AM</h3>
-
-🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
-
-<br><br>
-
-💻 Passionate about Artificial Intelligence & Machine Learning
-
-<br><br>
-
-🐍 Interested in Python & AI Development
-
-<br><br>
-
-🧠 Exploring Generative AI, LLMs, RAG & Agentic AI
-
-<br><br>
-
-🚀 Love building practical AI-powered applications
-
-<br><br>
-
-📚 Always learning and improving my technical skills
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💻 WHAT I DO</h3>
-
-🤖 AI / Machine Learning Development
-
-<br><br>
-
-🧠 Generative AI & LLM Applications
-
-<br><br>
-
-🔗 RAG & Agentic AI Systems
-
-<br><br>
-
-🐍 Python Development
-
-<br><br>
-
-📊 Data Analysis & Processing
-
-<br><br>
-
-💡 Building practical AI-powered solutions
-
-<br><br>
-
-💻 DSA & Problem Solving
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3>🛠️ SKILLS</h3>
-
-* <b>Languages:</b> Python, Java, SQL, HTML, CSS, JavaScript
-* <b>AI/ML & GenAI:</b> Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Prompt Engineering, Semantic Search, Embeddings, Vector Search
-* <b>Frameworks & Libraries:</b> TensorFlow, PyTorch, Scikit-learn, FastAPI, Streamlit, NLTK, FAISS, Sentence Transformers
-* <b>Data Tools:</b> Pandas, NumPy, Matplotlib, Tableau, Excel, Data Analytics, Data Visualization, EDA
-* <b>Backend & APIs:</b> REST APIs, Backend Development, API Integration, Gemini API
-* <b>Databases:</b> MySQL, MongoDB
-* <b>Fundamentals:</b> Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
-* <b>Tools:</b> Git, GitHub, Docker, Postman, VS Code, Jupyter Notebook
-* <b>Practices:</b> Software Testing, Test Automation, Performance Optimization, Agile/Scrum, Problem Solving
-
-<br>
-
-
-<h3>🛠️ TECH STACK</h3>
-
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>Python • Java • C++ • SQL</td>
-</tr>
-
-<tr>
-<td><b>AI / ML</b></td>
-<td>Machine Learning • Deep Learning • TensorFlow • PyTorch</td>
-</tr>
-
-<tr>
-<td><b>Generative AI</b></td>
-<td>LangChain • Hugging Face • Gemini • OpenAI</td>
-</tr>
-
-<tr>
-<td><b>RAG & AI Systems</b></td>
-<td>RAG • ChromaDB • Agentic AI • LLM Applications</td>
-</tr>
-
-<tr>
-<td><b>Data</b></td>
-<td>NumPy • Pandas • Matplotlib</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>Git • GitHub • VS Code • Google Colab • Streamlit</td>
-</tr>
-</table>
-
-<br>
-
-<h3>🚀 FEATURED PROJECTS</h3>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<h4>🤖 DataSip</h4>
-
-<b>AI-Powered Learning Tutor</b>
-
-<br><br>
-
-An AI-powered personal learning tutor designed to help users learn, understand concepts and interact with educational content using intelligent AI assistance.
-
-<br><br>
-
-<b>Tech:</b><br>
-Python • AI/ML • Generative AI
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>🧠 Multi-Agent AI Research System</h4>
-
-<b>AI Research Assistant</b>
-
-<br><br>
-
-A multi-agent research system designed to automate research, gather information, process knowledge and generate structured research reports using multiple AI agents.
-
-<br><br>
-
-<b>Tech:</b><br>
-Python • LangChain • LLMs • Multi-Agent AI
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>🎥 AI Video Assistant with RAG</h4>
-
-<b>Video Intelligence Platform</b>
-
-<br><br>
-
-An AI-powered application that analyzes YouTube and local videos, generates transcripts and structured insights, and enables conversational Q&A over video content using RAG.
-
-<br><br>
-
-<b>Tech:</b><br>
-Python • Whisper • LangChain • ChromaDB • RAG • Streamlit
-
-<br><br>
-
-<a href="https://github.com/Stutijain0429/AI-Video-Assistant">View Repository →</a>
-
-<h3>📜 Certifications</h3>
-
-* Applied AI Bootcamp — GenAI, RAG & Agentic Systems (Navigate Labs x Acropolis)
-* Deloitte Technology Job Simulation (Forage)
-* IBM Prompt Engineering
-* Principles of Generative AI — Infosys Springboard
-
-<br>
-
-
-
-
-
-
-
-<h3>🧠 CURRENTLY LEARNING</h3>
+### AI / ML / Data Science
 
 <p>
-Machine Learning • Deep Learning • Generative AI • LLMs • RAG • Agentic AI • LangChain • DSA
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-<br>
-
-<h3>📊 GITHUB STATS</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Stutijain0429&show_icons=true&hide_border=true&theme=transparent" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stutijain0429&layout=compact&hide_border=true&theme=transparent" width="38%">
-
-</div>
-
-<br>
-
-<h3>🔥 GITHUB STREAK</h3>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Stutijain0429&theme=transparent&hide_border=true">
-
-</div>
-
-<br>
-
-<h3>💻 CODING & PROBLEM SOLVING</h3>
+### Backend & APIs
 
 <p>
-Currently improving my Data Structures, Algorithms and problem-solving skills through consistent coding practice.
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
+
+### Databases
 
 <p>
-<b>Focus:</b> Data Structures • Algorithms • Problem Solving • DSA • LeetCode
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-<br>
-
-<h3>🤝 CONNECT WITH ME</h3>
+### Dev Tools
 
 <p>
-
-<a href="https://github.com/Stutijain0429">GitHub</a>
-  •   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
-<br>
+**Also working with:** Streamlit · Pandas · NumPy · Matplotlib · NLTK · FAISS · Sentence Transformers · Gemini API · Tableau · Excel · Semantic Search · Embeddings · Vector Search · Prompt Engineering · DSA · OOP · DBMS · Operating Systems · Computer Networks · Agile/Scrum
 
-<div align="center">
 
-<i>Building • Learning • Creating with AI 🤖</i>
+### 📌 Featured Projects
 
-<br><br>
+- **DataSip — AI-Powered Personalized Learning Platform**
+- **Multi-Agent AI Research System**
+- **AI Video Assistant with RAG**
 
-⭐ Thanks for visiting my profile!
 
-</div>
+### 📜 Certifications
 
+- Applied AI Bootcamp — GenAI, RAG & Agentic Systems (Navigate Labs x Acropolis)
+- Deloitte Technology Job Simulation (Forage)
+- IBM Prompt Engineering
+- Principles of Generative AI — Infosys Springboard
+
+
+## 🚀 Featured Projects
+
+### 🤖 DataSip — AI-Powered Personalized Learning Platform
+
+An AI-powered personalized learning platform designed to provide intelligent and interactive learning assistance.
+
+**Tech Stack:** Python · AI/ML · Generative AI
+
+
+### 🧠 Multi-Agent AI Research System
+
+A multi-agent AI research system designed to automate research tasks by using multiple specialized AI agents to gather information, process knowledge and generate structured research reports.
+
+**Tech Stack:** Python · LangChain · LLMs · Multi-Agent AI
+
+
+### 🎥 AI Video Assistant with RAG
+
+An AI-powered video intelligence application that analyzes YouTube and local videos, generates transcripts and structured insights, and enables conversational question-answering over video content using Retrieval-Augmented Generation.
+
+**Tech Stack:** Python · Whisper · LangChain · ChromaDB · RAG · Streamlit
+
+
+| Layer | Technology |
+|---|---|
+| 🎙️ Transcription | Whisper |
+| 🧠 LLM | Mistral AI |
+| 🔗 Orchestration | LangChain |
+| 🔍 Retrieval | ChromaDB |
+| 📚 Embeddings | Hugging Face MiniLM |
+| 🧠 Architecture | RAG |
+| 🖥️ Interface | Streamlit |
+| 🎬 Video Processing | FFmpeg · yt-dlp |
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stutijain0429&show_icons=true&hide_border=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stutijain0429&layout=compact&hide_border=true&theme=default" height="170"/>
+</p>
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Stutijain0429&theme=default&hide_border=true"/>
+</p>
+
+
+## 🤝 Connect With Me
+
+- **GitHub:** [Stutijain0429](https://github.com/Stutijain0429)
+- **LinkedIn:** [Add your LinkedIn profile here](YOUR_LINKEDIN_URL)
 
 
 
