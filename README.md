@@ -70,7 +70,7 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 | 🎬 Video Processing | FFmpeg · yt-dlp |
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### Languages
 
