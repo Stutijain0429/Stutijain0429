@@ -78,6 +78,21 @@
 
 <br>
 
+<h3>🛠️ SKILLS</h3>
+
+* <b>Languages:</b> Python, Java, SQL, HTML, CSS, JavaScript
+* <b>AI/ML & GenAI:</b> Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Prompt Engineering, Semantic Search, Embeddings, Vector Search
+* <b>Frameworks & Libraries:</b> TensorFlow, PyTorch, Scikit-learn, FastAPI, Streamlit, NLTK, FAISS, Sentence Transformers
+* <b>Data Tools:</b> Pandas, NumPy, Matplotlib, Tableau, Excel, Data Analytics, Data Visualization, EDA
+* <b>Backend & APIs:</b> REST APIs, Backend Development, API Integration, Gemini API
+* <b>Databases:</b> MySQL, MongoDB
+* <b>Fundamentals:</b> Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+* <b>Tools:</b> Git, GitHub, Docker, Postman, VS Code, Jupyter Notebook
+* <b>Practices:</b> Software Testing, Test Automation, Performance Optimization, Agile/Scrum, Problem Solving
+
+<br>
+
+
 <h3>🛠️ TECH STACK</h3>
 
 <table>
@@ -200,6 +215,10 @@ Python • Whisper • LangChain • ChromaDB • RAG • Streamlit
 <td>Certification</td>
 </tr>
 </table>
+
+<tr> <td>💼</td> <td><b>Deloitte Technology Job Simulation</b></td> <td>Forage</td> </tr>
+
+<tr> <td>🧠</td> <td><b>Prompt Engineering</b></td> <td>IBM</td> </tr> </table>
 
 <br>
 
