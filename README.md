@@ -6,6 +6,7 @@
 | 🎓 **Education** | B.Tech, AI & ML @ Acropolis Institute of Technology & Research (2023–2027) |
 | 🚀 **Open To** | AI/ML Roles · GenAI Projects · Collaborations |
 
+
 ### 🛠️ Skills
 
 - **Languages:** Python, Java, SQL, HTML, CSS, JavaScript
@@ -17,38 +18,6 @@
 - **Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 - **Tools:** Git, GitHub, Docker, Postman, VS Code, Jupyter Notebook
 - **Practices:** Software Testing, Test Automation, Performance Optimization, Agile/Scrum, Problem Solving
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-</p>
-
-### AI / ML / Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Dev Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
-
-**Also working with:** Streamlit · Pandas · NumPy · Matplotlib · NLTK · FAISS · Sentence Transformers · Gemini API · Tableau · Excel · Semantic Search · Embeddings · Vector Search · Prompt Engineering · DSA · OOP · DBMS · Operating Systems · Computer Networks · Agile/Scrum
 
 
 ### 📌 Featured Projects
@@ -101,6 +70,41 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 | 🎬 Video Processing | FFmpeg · yt-dlp |
 
 
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+</p>
+
+#### AI / ML / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+#### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+#### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+#### Dev Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+**Also working with:** Streamlit · Pandas · NumPy · Matplotlib · NLTK · FAISS · Sentence Transformers · Gemini API · Tableau · Excel · Semantic Search · Embeddings · Vector Search · Prompt Engineering · DSA · OOP · DBMS · Operating Systems · Computer Networks · Agile/Scrum
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -120,7 +124,6 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 
 - **GitHub:** [Stutijain0429](https://github.com/Stutijain0429)
 - **LinkedIn:** [Add your LinkedIn profile here](YOUR_LINKEDIN_URL)
-
 
 
 
