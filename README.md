@@ -122,9 +122,21 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [Stutijain0429](https://github.com/Stutijain0429)
-- **LinkedIn:** [Add your LinkedIn profile here](YOUR_LINKEDIN_URL)
+<p align="center">
 
+<a href="https://www.linkedin.com/in/stuti-jain-b370382a5L">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:stutij49@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Stutijain0429">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 
 
