@@ -187,40 +187,20 @@ Python • Whisper • LangChain • ChromaDB • RAG • Streamlit
 
 <a href="https://github.com/Stutijain0429/AI-Video-Assistant">View Repository →</a>
 
-</td>
+<h3>📜 Certifications</h3>
 
-</tr>
-</table>
-
-<br>
-
-<h3>📜 CERTIFICATIONS</h3>
-
-<table>
-<tr>
-<td>🏆</td>
-<td><b>AWS Solution Architect Certification</b></td>
-<td>TechA</td>
-</tr>
-
-<tr>
-<td>🤖</td>
-<td><b>Applied AI Bootcamp — Generative AI, RAG & Agentic Systems</b></td>
-<td>Navigate Labs</td>
-</tr>
-
-<tr>
-<td>🎓</td>
-<td><b>Principles of Generative AI</b></td>
-<td>Certification</td>
-</tr>
-</table>
-
-<tr> <td>💼</td> <td><b>Deloitte Technology Job Simulation</b></td> <td>Forage</td> </tr>
-
-<tr> <td>🧠</td> <td><b>Prompt Engineering</b></td> <td>IBM</td> </tr> </table>
+* Applied AI Bootcamp — GenAI, RAG & Agentic Systems (Navigate Labs x Acropolis)
+* Deloitte Technology Job Simulation (Forage)
+* IBM Prompt Engineering
+* Principles of Generative AI — Infosys Springboard
 
 <br>
+
+
+
+
+
+
 
 <h3>🧠 CURRENTLY LEARNING</h3>
 
