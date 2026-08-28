@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7BC8D0,100:E7F8FA&height=180&section=header&text=STUTI%20JAIN&fontSize=42&fontColor=142F35&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="./assets/neural-grid.svg" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=20&duration=3000&pause=1000&color=1597A3&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Generative+AI+%7C+RAG+%7C+Python;Building+Intelligent+AI+Applications" />
-</p>
-
 ## 🧠 Who I Am
 
 | 🎯 **Title** | AI/ML & GenAI Developer |
@@ -143,13 +138,8 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 <a href="https://github.com/Stutijain0429">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7F8FA,100:7BC8D0&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="./assets/neural-grid.svg" width="100%">
 </p>
-
-
 
 
