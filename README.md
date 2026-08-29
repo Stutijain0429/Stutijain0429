@@ -138,8 +138,8 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 <a href="https://github.com/Stutijain0429">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<p align="center">
-  <img src="./assets/neural-grid.svg" width="100%">
-</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7F8FA,100:7BC8D0&height=120&section=footer" width="100%">
+</p>
 
