@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/neural-grid.svg" width="100%">
 </p>
+
 ## 🧠 Who I Am
 
 | 🎯 **Title** | AI/ML & GenAI Developer |
