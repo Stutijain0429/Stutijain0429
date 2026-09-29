@@ -36,16 +36,86 @@
 ## 🚀 Featured Projects
 
 ### 🔍 AI PR Review Assistant
-AI-powered pull request reviewer that combines static analysis with LLM reasoning to give structured, severity-ranked feedback on code changes.
 
-**Tech Stack:** Python · FastAPI · Google Gemini API · GitHub REST API · Pydantic
+AI-powered Pull Request Review Assistant that automatically analyzes code changes in GitHub pull requests and provides intelligent feedback on code quality, potential issues, readability, and best practices. It helps developers streamline the code review process by generating structured review suggestions and identifying areas that may require improvement.
+
+**Tech Stack:** Python · Generative AI · GitHub API · LLM · Code Analysis
+
+
+| Layer | Technology |
+|---|---|
+| 🐍 Programming Language | Python |
+| 🧠 AI / LLM | Generative AI · LLM |
+| 🔍 Code Review | Automated Code Analysis |
+| 🔗 Integration | GitHub API |
+| 🖥️ Interface | Streamlit |
+
 🔗 [View Repository](https://github.com/Stutijain0429/PR-Review-Assistant)
 
-### 🎥 AI Video Assistant
-Turns YouTube videos or local audio/video files into transcripts, summaries, action items and key decisions, with RAG-based chat over the content. Supports English and Hinglish.
+---
 
-**Tech Stack:** Python · Whisper · Groq · LangChain · ChromaDB · Streamlit
+### 🧠ResearchMind - Multi-Agent AI Research System 
+
+An AI-powered research assistant that turns any topic into a structured, source-backed report. It searches the live web, scrapes the most relevant pages in parallel, writes a cited Markdown report, and has an AI critic score it out of 10. If the score is low, the report is automatically revised and reviewed again.
+
+**Tech Stack:** Python · LangChain · Groq · Tavily · Streamlit
+🔗 [View Repository](https://github.com/Stutijain0429/Research-Mind)
+
+
+| Layer              | Technology                     |
+| ------------------ | ------------------------------ |
+| 🔍 Web Search       | Tavily                         |
+| 📄 Scraping         | Requests · BeautifulSoup       |
+| 🧠 LLM              | Groq (`openai/gpt-oss-120b`)   |
+| 🔗 Orchestration    | LangChain                      |
+| 🔁 Workflow         | Writer → Critic → Reviser loop |
+| 🖥️ Interface       | Streamlit                      |
+
+🔗 [Live Demo](https://multi-ai-agent-stuti.streamlit.app) · 
+
+---
+
+### 🎥 AI Video Assistant
+
+AI-powered video assistant that allows users to interact with video content using natural language. The system processes video content, retrieves relevant information, and uses Retrieval-Augmented Generation (RAG) to provide context-aware answers based on the uploaded video. It helps users quickly understand and extract useful information without watching the entire video.
+
+**Tech Stack:** Python · RAG · LangChain · Gemini · Streamlit · Vector Search
+
+
+| Layer | Technology |
+|---|---|
+| 🐍 Programming Language | Python |
+| 🧠 AI / LLM | Google Gemini |
+| 🔗 Framework | LangChain |
+| 📚 Architecture | Retrieval-Augmented Generation (RAG) |
+| 🔎 Retrieval | Vector Search |
+| 🖥️ Interface | Streamlit |
+
 🔗 [View Repository](https://github.com/Stutijain0429/AI-Video-Assistant)
+
+---
+
+### 💙 MindEase — AI Mental Wellbeing Assistant
+
+AI-powered wellbeing assistant designed to analyze users' emotions from text and provide supportive, personalized wellbeing responses. The system uses a fine-tuned DistilBERT model for emotion classification and includes safety checks, mood tracking, emotion insights, and an interactive dashboard to help users understand their emotional patterns.
+
+**Tech Stack:** Python · DistilBERT · PyTorch · Hugging Face Transformers · Streamlit · Scikit-learn
+
+
+| Layer | Technology |
+|---|---|
+| 🐍 Programming Language | Python |
+| 🧠 NLP / Emotion Model | Fine-tuned DistilBERT |
+| 🔥 Deep Learning | PyTorch |
+| 🤗 NLP Framework | Hugging Face Transformers |
+| 🤖 Machine Learning | Scikit-learn |
+| 🖥️ Interface | Streamlit |
+| 📊 Data Processing | Pandas · NumPy |
+| 📈 Visualization | Plotly |
+
+🔗 [View Repository](https://github.com/Stutijain0429/AI-Mental-Wellbeing-Assistant)
+
+---
 
 ### 🤖 DataSip — AI-Powered Personalized Learning Platform
 Learning platform with an AI chat tutor, assessments, personalized learning paths, flashcards and concept maps.
