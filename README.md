@@ -173,9 +173,9 @@ Learning platform with an AI chat tutor, assessments, personalized learning path
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stutijain0429&show_icons=true&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stutijain0429&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stutijain0429&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stutijain0429&layout=compact)
 
 ## 🔥 GitHub Streak
 
