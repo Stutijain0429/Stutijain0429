@@ -41,24 +41,23 @@
 
 ## 🚀 Featured Projects
 
+### 🔍 AI PR Review Assistant
+AI-powered pull request reviewer that combines static analysis with LLM reasoning to give structured, severity-ranked feedback on code changes.
+
+**Tech Stack:** Python · FastAPI · Google Gemini API · GitHub REST API · Pydantic
+🔗 [View Repository](https://github.com/Stutijain0429/PR-Review-Assistant)
+
+### 🎥 AI Video Assistant
+Turns YouTube videos or local audio/video files into transcripts, summaries, action items and key decisions, with RAG-based chat over the content. Supports English and Hinglish.
+
+**Tech Stack:** Python · Whisper · Groq · LangChain · ChromaDB · Streamlit
+🔗 [View Repository](https://github.com/Stutijain0429/AI-Video-Assistant)
+
 ### 🤖 DataSip — AI-Powered Personalized Learning Platform
+Learning platform with an AI chat tutor, assessments, personalized learning paths, flashcards and concept maps.
 
-An AI-powered personalized learning platform designed to provide intelligent and interactive learning assistance.
-
-**Tech Stack:** Python · AI/ML · Generative AI
-
-
-### 🧠 Multi-Agent AI Research System
-
-A multi-agent AI research system designed to automate research tasks by using multiple specialized AI agents to gather information, process knowledge and generate structured research reports.
-
-**Tech Stack:** Python · LangChain · LLMs · Multi-Agent AI
-
-
-### 🎥 AI Video Assistant with RAG
-
-An AI-powered video intelligence application that analyzes YouTube and local videos, generates transcripts and structured insights, and enables conversational question-answering over video content using Retrieval-Augmented Generation.
-
+**Tech Stack:** Python · FastAPI · Google Gemini API
+🔗 [View Repository](https://github.com/Stutijain0429/DataSip)
 **Tech Stack:** Python · Whisper · LangChain · ChromaDB · RAG · Streamlit
 
 
@@ -128,7 +127,7 @@ An AI-powered video intelligence application that analyzes YouTube and local vid
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/stuti-jain-b370382a5L">
+<a href="https://www.linkedin.com/in/stutijain04/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
