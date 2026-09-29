@@ -50,9 +50,8 @@ Turns YouTube videos or local audio/video files into transcripts, summaries, act
 ### 🤖 DataSip — AI-Powered Personalized Learning Platform
 Learning platform with an AI chat tutor, assessments, personalized learning paths, flashcards and concept maps.
 
-**Tech Stack:** Python · FastAPI · Google Gemini API
-🔗 [View Repository](https://github.com/Stutijain0429/DataSip)
 **Tech Stack:** Python · Whisper · LangChain · ChromaDB · RAG · Streamlit
+🔗 [View Repository](https://github.com/Stutijain0429/DataSip)
 
 
 | Layer | Technology |
