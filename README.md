@@ -24,19 +24,13 @@
 - **Practices:** Software Testing, Test Automation, Performance Optimization, Agile/Scrum, Problem Solving
 
 
-### 📌 Featured Projects
-
-- **DataSip — AI-Powered Personalized Learning Platform**
-- **Multi-Agent AI Research System**
-- **AI Video Assistant with RAG**
-
-
 ### 📜 Certifications
 
 - Applied AI Bootcamp — GenAI, RAG & Agentic Systems (Navigate Labs x Acropolis)
 - Deloitte Technology Job Simulation (Forage)
 - IBM Prompt Engineering
 - Principles of Generative AI — Infosys Springboard
+- ET AI Hackathon 2.0 — Certificate of Participation (The Economic Times)
 
 
 ## 🚀 Featured Projects
