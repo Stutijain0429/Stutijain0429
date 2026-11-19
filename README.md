@@ -184,6 +184,11 @@ Learning platform with an AI chat tutor, assessments, personalized learning path
   <img width="80%" src="https://streak-stats.demolab.com/?user=Stutijain0429&theme=tokyonight"/>
 </p>
 
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Stutijain0429&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ## 🤝 Connect With Me
 
@@ -204,4 +209,5 @@ Learning platform with an AI chat tutor, assessments, personalized learning path
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7F8FA,100:7BC8D0&height=120&section=footer" width="100%">
 </p>
+
 
