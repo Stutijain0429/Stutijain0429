@@ -173,14 +173,15 @@ Learning platform with an AI chat tutor, assessments, personalized learning path
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stutijain0429&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stutijain0429&layout=compact)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Stutijain0429&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stutijain0429&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Stutijain0429&theme=default&hide_border=true"/>
+  <img width="80%" src="https://streak-stats.demolab.com/?user=Stutijain0429&theme=tokyonight"/>
 </p>
 
 
